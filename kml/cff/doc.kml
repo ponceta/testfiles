@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <kml xmlns="http://www.opengis.net/kml/2.2">
+      <Document>
+        <name>cff_georef.tif</name>
+        <description></description>
+        <Style>
+          <ListStyle id="hideChildren">
+            <listItemType>checkHideChildren</listItemType>
+          </ListStyle>
+        </Style>
+        <NetworkLink>
+          <name>6/32/41.png</name>
+          <Region>
+            <LatLonAltBox>
+              <north>48.92249926375825</north>
+              <south>45.08903556483101</south>
+              <east>5.62500000000001</east>
+              <west>0.00000000000000</west>
+            </LatLonAltBox>
+            <Lod>
+              <minLodPixels>128</minLodPixels>
+              <maxLodPixels>-1</maxLodPixels>
+            </Lod>
+          </Region>
+          <Link>
+            <href>6/32/41.kml</href>
+            <viewRefreshMode>onRegion</viewRefreshMode>
+            <viewFormat/>
+          </Link>
+        </NetworkLink>
+    
+        <NetworkLink>
+          <name>6/33/41.png</name>
+          <Region>
+            <LatLonAltBox>
+              <north>48.92249926375825</north>
+              <south>45.08903556483101</south>
+              <east>11.24999999999999</east>
+              <west>5.62500000000001</west>
+            </LatLonAltBox>
+            <Lod>
+              <minLodPixels>128</minLodPixels>
+              <maxLodPixels>-1</maxLodPixels>
+            </Lod>
+          </Region>
+          <Link>
+            <href>6/33/41.kml</href>
+            <viewRefreshMode>onRegion</viewRefreshMode>
+            <viewFormat/>
+          </Link>
+        </NetworkLink>
+          </Document>
+    </kml>
+    
